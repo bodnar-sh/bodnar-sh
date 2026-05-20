@@ -17,5 +17,4 @@
 ## Find me
 
 - GitHub: [@danielbodnar](https://github.com/danielbodnar) · [@bodnar-sh](https://github.com/bodnar-sh)
-- Email: `daniel.bodnar@gmail.com`
 - TZ: America/Chicago
